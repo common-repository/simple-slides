@@ -1,0 +1,5 @@
+.form-table th[scope=row] .description {
+    color: #ff3300;
+    font-family: 'courier new';
+    font-style: normal;
+}

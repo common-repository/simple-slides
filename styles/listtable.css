@@ -1,0 +1,25 @@
+#the-list .column-thumb img {
+    background: #fff;
+    border: 1px solid #3079ed;
+    padding: 1px;
+}
+
+#the-list .column-full_size {  
+    font-size: 14px;
+    padding-top: 10px;
+}
+
+#the-list .column-slide_set a {
+    background: #4a8bf5;    
+    border: 1px solid #3079ed;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;  
+    color: #fff;
+    display: -moz-inline-stack;
+    display: inline-block;
+    zoom: 1;
+    *display: inline;
+    padding: 3px 6px;
+    text-shadow: 0 1px 0 #255eba;
+}
